@@ -1,12 +1,14 @@
-👋 Hi, I’m **Ammad Amin Raja**  
-I’m a final-year **Computer Science BSc** student at **Birmingham City University**, learning and growing every day as I navigate the exciting world of technology. I enjoy exploring new challenges, building creative solutions, and discovering the endless possibilities of programming.
+Hi, I'm Ammad,
+Recent Computer Science BSc graduate from Birmingham City University (First Class Honours), passionate about building technology that engages and entertains. I love diving into complex problems, whether it's designing game mathematics, training ML models, or competing in coding challenges.
 
-🚀 **About Me**  
-- 🔭 Currently working on a **Smart Traffic Management System** using computer vision and machine learning.  
-- 🧠 Passionate about learning to code and solving real-world problems while embracing the journey of self-improvement.  
-- 🌱 I enjoy experimenting with technologies like **Python**, **Java**, and **SQL**, and I’m always curious about what’s next.  
-- 🌟 I believe in continuous learning and don’t intend to stop!
+Actively seeking opportunities in software engineering.
+Built a Smart Traffic Management System using YOLO, PyTorch, and ensemble ML models
+Former Game Mathematician at Massive Studios, creating mathematical models and testing utilities in cross-functional agile teams
 
-📫 **How to Reach Me**  
-- Email: [ammadraja67@gmail.com](mailto:ammadraja67@gmail.com)  
+Tech I Work With
+Python • Java • SQL • Streamlit • PyTorch • XGBoost • Jira • Git
 
+Beyond Code
+Multilingual communicator (Italian, English, Urdu, Punjabi) with 16 years in Italy. I value genuine collaboration and believe technology should be fun, not just functional.
+Let's Connect
+ammadraja67@gmail.com
